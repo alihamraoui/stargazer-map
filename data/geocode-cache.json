@@ -181,6 +181,13 @@
   "country": "United Kingdom",
   "country_code": "GB"
  },
+ "casablanca": {
+  "lat": 33.595,
+  "lon": -7.62,
+  "label": "Casablanca, Morocco",
+  "country": "Morocco",
+  "country_code": "MA"
+ },
  "changsha": {
   "lat": 28.145,
   "lon": 113.238,
