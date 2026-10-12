@@ -1,7 +1,7 @@
 {
  "org": "alihamraoui",
  "repository": "alihamraoui/stargazer-map",
- "generated_at": "2026-10-12T11:50:29+00:00",
+ "generated_at": "2026-10-12T12:01:59+00:00",
  "repos": [
   {
    "repo": "scIso",
@@ -86,18 +86,6 @@
    "located": 1,
    "error": null,
    "countries": 1
-  },
-  {
-   "repo": "prism-star-maps",
-   "url": "https://github.com/alihamraoui/prism-star-maps",
-   "description": "PRISM star maps org",
-   "language": "Python",
-   "archived": false,
-   "star_count": 0,
-   "stargazers": 0,
-   "located": 0,
-   "error": null,
-   "countries": 0
   },
   {
    "repo": "docs",
